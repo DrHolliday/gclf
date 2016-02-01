@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+	background-color: #f5f5f5;
+}
+
+footer {
+	clear: both;
+}
+
+section {
+	text-align: center;
+	margin: 0 auto;
+}
+
+header {
+	padding: 0;
+	margin: 0;
+	height: 80px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.menu li {
+	float: left;
+	display: inline-block;
+}
+
+.filmList article {
+	clear: both;
+	padding : 6px 0;
+}
+
+.filmList article img {
+	float: left;
+	height : 200px;
+}
+
+.filmList article .content {
+	float: left;
+	width: 80%;
+}
+
+.filmList article .actions {
+	float: left;
+	width: 20%;
+}
+
+#rechercheChamp {
+	padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 380px;
+    height: 75px;
+}
+
+#rechercheBtn {
+	color: grey;
+	background-color: orange;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 180px;
+    height: 75px;
+}
+
+#rechercheBtn:hover {
+
+}
+
+#rechercheFormHeader {
+ float: left;
+}
+
+
+

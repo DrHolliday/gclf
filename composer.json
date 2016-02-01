@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/gclf",
+    "description": "gestion de copy legales de films",
+    "authors": [
+        {
+            "name": "Renaud Ialacci",
+            "email": "renaud.ialacci@gmail.com"
+        }
+    ],
+    "require": {
+        "jleagle/omdb-imdb-api-client": "^0.1.0"
+    }
+}
